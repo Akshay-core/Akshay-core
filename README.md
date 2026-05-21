@@ -4,6 +4,12 @@
 💡 I build scalable web apps, automation systems, and SaaS MVPs  
 🎯 Focused on backend systems, productivity tools, and AI integrations  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![React](https://img.shields.io/badge/React-blue)
+![SaaS](https://img.shields.io/badge/SaaS-purple)
+![Automation](https://img.shields.io/badge/Automation-red)
+
 ---
 
 ## 🧠 About Me
